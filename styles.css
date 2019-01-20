@@ -98,17 +98,17 @@ a {
 	clear:both;
 	overflow: auto;	
 }
-#work{
+#service{
 	background-color:#fff;
 	padding:0.3% 2% 2% 2%;
 	margin-top:2.5%;
 }
-#work img{
+#service img{
 	float:left;
 	margin-bottom:8px;
 	margin-right:8px;
 }
-#work p{
+#service p{
 	clear:both;
 }
 
@@ -163,7 +163,7 @@ a {
 	background-color:#fff;
 	margin-bottom:20px;
 }
-#publications li, #project li, #work li, #department li, #contact li{
+#publications li, #project li, #service li, #department li, #contact li{
     line-height: 1.7em;
     list-style-image: url("list_squares.png");
     margin-bottom: 0.7em;
@@ -174,7 +174,7 @@ font-style:italic;
 }
 
 
-#main, #publications, #project, .column, #news, #members, #menu, #work, #contact{
+#main, #publications, #project, .column, #news, #members, #menu, #service, #contact{
 	-moz-border-radius: 4px;
 	border-radius: 4px;
 	-webkit-box-shadow: 0 6px 5px -7px #333333;
