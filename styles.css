@@ -29,14 +29,9 @@
     font-style: normal;
 }
 
-/*body{
-background: #eee url(bg_overlay-2.png) repeat bottom left;
-z-index: 0;
-font-family: "OpenSans",Helvetica,Arial,sans-serif;
-font-weight: 400;
-
-color: #555;
-}*/
+body{
+background-color: #eaecea;
+}
 
 h1,h2,h3{
 	font-family: "OpenSans","Helvetica Neue",Helvetica,Arial,sans-serif;
